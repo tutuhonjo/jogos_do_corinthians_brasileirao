@@ -1,284 +1,1635 @@
-1º Rodada
-DATA/LOCAL/HORA - DOM 16/04/2023 NEO QUÍMICA ARENA 16:00 
-
-JOGO
-COR
-2
-1
-CRU
-
-2º Rodada
-DATA/LOCAL/HORA - DOM 23/04/2023 HAILÉ PINHEIRO (SERRINHA) 19:00 
-
-JOGO
-GOI
-3
-1
-COR
-
-3º Rodada
-DATA/LOCAL/HORA - SÁB 29/04/2023 ALLIANZ PARQUE 18:30 
-
-JOGO
-PAL
-2
-1
-COR
-
-4º Rodada
-DATA/LOCAL/HORA - SEG 08/05/2023 NEO QUÍMICA ARENA 20:00 
-
-JOGO
-COR
-1
-1
-FOR
-
-5º Rodada
-DATA/LOCAL/HORA - QUI 11/05/2023 NILTON SANTOS (ENGENHÃO) 19:30 
-
-JOGO
-BOT
-3
-0
-COR
-
-6º Rodada
-DATA/LOCAL/HORA - DOM 14/05/2023 NEO QUÍMICA ARENA 16:00 
-
-JOGO
-COR
-1
-1
-SAO
-
-7º Rodada
-DATA/LOCAL/HORA - DOM 21/05/2023 MARACANÃ 16:00 
-
-JOGO
-FLA
-1
-0
-COR
-
-8º Rodada
-DATA/LOCAL/HORA - DOM 28/05/2023 NEO QUÍMICA ARENA 16:00 
-
-JOGO
-COR
-2
-0
-FLU
-
-9º Rodada
-DATA/LOCAL/HORA - SÁB 03/06/2023 INDEPENDÊNCIA 18:30 
-
-JOGO
-AME
-2
-0
-COR
-
-10º Rodada
-DATA/LOCAL/HORA - SÁB 10/06/2023 NEO QUÍMICA ARENA 18:30 
-
-JOGO
-COR
-CUI
-
-11º Rodada
-DATA/LOCAL/HORA - QUA 21/06/2023 VILA BELMIRO 20:00 
-
-JOGO
-SAN
-COR
-
-12º Rodada
-DATA/LOCAL/HORA - SÁB 24/06/2023 ARENA DA BAIXADA 16:00 
-
-JOGO
-CAP
-COR
-
-13º Rodada
-DATA/LOCAL/HORA - DOM 02/07/2023 NEO QUÍMICA ARENA 11:00 
-
-JOGO
-COR
-RBB
-
-14º Rodada
-DATA/LOCAL/HORA - DOM 09/07/2023 MINEIRÃO 16:00 
-
-JOGO
-CAM
-COR
-
-15º Rodada
-DATA/LOCAL/HORA - SÁB 15/07/2023 NEO QUÍMICA ARENA 21:00 
-
-JOGO
-COR
-GRE
-
-16º Rodada
-DATA/LOCAL/HORA - DOM 23/07/2023 
-
-JOGO
-BAH
-COR
-
-17º Rodada
-DATA/LOCAL/HORA - DOM 30/07/2023 
-
-JOGO
-COR
-VAS
-
-18º Rodada
-DATA/LOCAL/HORA - QUA 02/08/2023 
-
-JOGO
-INT
-COR
-
-19º Rodada
-DATA/LOCAL/HORA - DOM 06/08/2023 
-
-JOGO
-COR
-CFC
-
-20º Rodada
-DATA/LOCAL/HORA - DOM 13/08/2023 
-
-JOGO
-CRU
-COR
-
-21º Rodada
-DATA/LOCAL/HORA - DOM 20/08/2023 
-
-JOGO
-COR
-GOI
-
-22º Rodada
-DATA/LOCAL/HORA - DOM 27/08/2023 
-
-JOGO
-COR
-PAL
-
-23º Rodada
-DATA/LOCAL/HORA - DOM 03/09/2023 
-
-JOGO
-FOR
-COR
-
-24º Rodada
-DATA/LOCAL/HORA - QUA 13/09/2023 
-
-JOGO
-COR
-BOT
-
-25º Rodada
-DATA/LOCAL/HORA - QUA 20/09/2023 
-
-JOGO
-SAO
-COR
-
-26º Rodada
-DATA/LOCAL/HORA - DOM 01/10/2023 
-
-JOGO
-COR
-FLA
-
-27º Rodada
-DATA/LOCAL/HORA - DOM 08/10/2023 
-
-JOGO
-FLU
-COR
-
-28º Rodada
-DATA/LOCAL/HORA - QUA 18/10/2023 
-
-JOGO
-COR
-AME
-
-29º Rodada
-DATA/LOCAL/HORA - DOM 22/10/2023 
-
-JOGO
-CUI
-COR
-
-30º Rodada
-DATA/LOCAL/HORA - QUA 25/10/2023 
-
-JOGO
-COR
-SAN
-
-31º Rodada
-DATA/LOCAL/HORA - DOM 29/10/2023 
-
-JOGO
-COR
-CAP
-
-32º Rodada
-DATA/LOCAL/HORA - QUA 01/11/2023 
-
-JOGO
-RBB
-COR
-
-33º Rodada
-DATA/LOCAL/HORA - DOM 05/11/2023 
-
-JOGO
-COR
-CAM
-
-34º Rodada
-DATA/LOCAL/HORA - DOM 12/11/2023 
+38ª RODADAº 
+DATA/LOCAL/HORA - 08/12Domingo 
 
 JOGO
 GRE
 COR
 
-35º Rodada
-DATA/LOCAL/HORA - QUA 22/11/2023 
-
-JOGO
-COR
-BAH
-
-36º Rodada
-DATA/LOCAL/HORA - DOM 26/11/2023 
+DATA - 10/07 
+Local - São Januário 
+Hora - 19:00
 
 JOGO
 VAS
+2
+0
 COR
 
-37º Rodada
-DATA/LOCAL/HORA - QUA 29/11/2023 
+DATA - 16/07 
+Local - Neo Química Arena 
+Hora - 21:00
+
+JOGO
+COR
+2
+1
+CRI
+
+DATA - 21/07 
+Local - Casa de Apostas Arena Fonte Nova 
+Hora - 16:00
+
+JOGO
+BAH
+0
+1
+COR
+
+DATA - 25/07 
+Local - Neo Química Arena 
+Hora - 20:00
+
+JOGO
+COR
+2
+2
+GRE
+
+DATA - 28/07 
+Local - Arena MRV 
+Hora - 19:00
+
+JOGO
+CAM
+2
+1
+COR
+
+DATA - 04/08 
+Local - Neo Química Arena 
+Hora - 16:00
+
+JOGO
+COR
+1
+1
+JUV
+
+DATA - 10/08 
+Local - Neo Química Arena 
+Hora - 21:30
+
+JOGO
+COR
+1
+1
+RBB
+
+DATA - 17/08 
+Local - Maracanã 
+Hora - 21:00
+
+JOGO
+FLU
+0
+0
+COR
+
+DATA - 25/08 
+Local - Castelão (CE) 
+Hora - 16:00
+
+JOGO
+FOR
+1
+0
+COR
+
+DATA - 01/09 
+Local - Neo Química Arena 
+Hora - 16:00
+
+JOGO
+COR
+2
+1
+FLA
+
+DATA - 14/09 
+Local - Nilton Santos (Engenhão) 
+Hora - 21:00
+
+JOGO
+BOT
+COR
+
+DATA - 21/09 
+Local - Neo Química Arena 
+Hora - 16:00
+
+JOGO
+COR
+ACG
+
+DATA - 29/09 
+Local - Morumbis 
+Hora - 16:00
+
+JOGO
+SAO
+COR
+
+DATA - 05/10 
+Local - Neo Química Arena 
+Hora - 19:00
 
 JOGO
 COR
 INT
 
-38º Rodada
-DATA/LOCAL/HORA - DOM 03/12/2023 
+DATA - 20/10 
+Local -  
+Hora - 
 
 JOGO
-CFC
+COR
+CAP
+
+DATA - 26/10 
+Local -  
+Hora - 
+
+JOGO
+CUI
+COR
+
+DATA - 06/11 
+Local -  
+Hora - 
+
+JOGO
+COR
+PAL
+
+DATA - 13/11 
+Local -  
+Hora - 
+
+JOGO
+VIT
+COR
+
+DATA - 20/11 
+Local -  
+Hora - 
+
+JOGO
+COR
+CRU
+
+DATA - 24/11 
+Local -  
+Hora - 
+
+JOGO
+COR
+VAS
+
+DATA - 01/12 
+Local -  
+Hora - 
+
+JOGO
+CRI
+COR
+
+DATA - 04/12 
+Local -  
+Hora - 
+
+JOGO
+COR
+BAH
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 10/07 
+Local - São Januário 
+Hora - 19:00
+
+JOGO
+VAS
+2
+0
+COR
+
+DATA - 16/07 
+Local - Neo Química Arena 
+Hora - 21:00
+
+JOGO
+COR
+2
+1
+CRI
+
+DATA - 21/07 
+Local - Casa de Apostas Arena Fonte Nova 
+Hora - 16:00
+
+JOGO
+BAH
+0
+1
+COR
+
+DATA - 25/07 
+Local - Neo Química Arena 
+Hora - 20:00
+
+JOGO
+COR
+2
+2
+GRE
+
+DATA - 28/07 
+Local - Arena MRV 
+Hora - 19:00
+
+JOGO
+CAM
+2
+1
+COR
+
+DATA - 04/08 
+Local - Neo Química Arena 
+Hora - 16:00
+
+JOGO
+COR
+1
+1
+JUV
+
+DATA - 10/08 
+Local - Neo Química Arena 
+Hora - 21:30
+
+JOGO
+COR
+1
+1
+RBB
+
+DATA - 17/08 
+Local - Maracanã 
+Hora - 21:00
+
+JOGO
+FLU
+0
+0
+COR
+
+DATA - 25/08 
+Local - Castelão (CE) 
+Hora - 16:00
+
+JOGO
+FOR
+1
+0
+COR
+
+DATA - 01/09 
+Local - Neo Química Arena 
+Hora - 16:00
+
+JOGO
+COR
+2
+1
+FLA
+
+DATA - 14/09 
+Local - Nilton Santos (Engenhão) 
+Hora - 21:00
+
+JOGO
+BOT
+COR
+
+DATA - 21/09 
+Local - Neo Química Arena 
+Hora - 16:00
+
+JOGO
+COR
+ACG
+
+DATA - 29/09 
+Local - Morumbis 
+Hora - 16:00
+
+JOGO
+SAO
+COR
+
+DATA - 05/10 
+Local - Neo Química Arena 
+Hora - 19:00
+
+JOGO
+COR
+INT
+
+DATA - 20/10 
+Local -  
+Hora - 
+
+JOGO
+COR
+CAP
+
+DATA - 26/10 
+Local -  
+Hora - 
+
+JOGO
+CUI
+COR
+
+DATA - 06/11 
+Local -  
+Hora - 
+
+JOGO
+COR
+PAL
+
+DATA - 13/11 
+Local -  
+Hora - 
+
+JOGO
+VIT
+COR
+
+DATA - 20/11 
+Local -  
+Hora - 
+
+JOGO
+COR
+CRU
+
+DATA - 24/11 
+Local -  
+Hora - 
+
+JOGO
+COR
+VAS
+
+DATA - 01/12 
+Local -  
+Hora - 
+
+JOGO
+CRI
+COR
+
+DATA - 04/12 
+Local -  
+Hora - 
+
+JOGO
+COR
+BAH
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 10/07 
+Local - São Januário 
+Hora - 19:00
+
+JOGO
+VAS
+2
+0
+COR
+
+DATA - 16/07 
+Local - Neo Química Arena 
+Hora - 21:00
+
+JOGO
+COR
+2
+1
+CRI
+
+DATA - 21/07 
+Local - Casa de Apostas Arena Fonte Nova 
+Hora - 16:00
+
+JOGO
+BAH
+0
+1
+COR
+
+DATA - 25/07 
+Local - Neo Química Arena 
+Hora - 20:00
+
+JOGO
+COR
+2
+2
+GRE
+
+DATA - 28/07 
+Local - Arena MRV 
+Hora - 19:00
+
+JOGO
+CAM
+2
+1
+COR
+
+DATA - 04/08 
+Local - Neo Química Arena 
+Hora - 16:00
+
+JOGO
+COR
+1
+1
+JUV
+
+DATA - 10/08 
+Local - Neo Química Arena 
+Hora - 21:30
+
+JOGO
+COR
+1
+1
+RBB
+
+DATA - 17/08 
+Local - Maracanã 
+Hora - 21:00
+
+JOGO
+FLU
+0
+0
+COR
+
+DATA - 25/08 
+Local - Castelão (CE) 
+Hora - 16:00
+
+JOGO
+FOR
+1
+0
+COR
+
+DATA - 01/09 
+Local - Neo Química Arena 
+Hora - 16:00
+
+JOGO
+COR
+2
+1
+FLA
+
+DATA - 14/09 
+Local - Nilton Santos (Engenhão) 
+Hora - 21:00
+
+JOGO
+BOT
+COR
+
+DATA - 21/09 
+Local - Neo Química Arena 
+Hora - 16:00
+
+JOGO
+COR
+ACG
+
+DATA - 29/09 
+Local - Morumbis 
+Hora - 16:00
+
+JOGO
+SAO
+COR
+
+DATA - 05/10 
+Local - Neo Química Arena 
+Hora - 19:00
+
+JOGO
+COR
+INT
+
+DATA - 20/10 
+Local -  
+Hora - 
+
+JOGO
+COR
+CAP
+
+DATA - 26/10 
+Local -  
+Hora - 
+
+JOGO
+CUI
+COR
+
+DATA - 06/11 
+Local -  
+Hora - 
+
+JOGO
+COR
+PAL
+
+DATA - 13/11 
+Local -  
+Hora - 
+
+JOGO
+VIT
+COR
+
+DATA - 20/11 
+Local -  
+Hora - 
+
+JOGO
+COR
+CRU
+
+DATA - 24/11 
+Local -  
+Hora - 
+
+JOGO
+COR
+VAS
+
+DATA - 01/12 
+Local -  
+Hora - 
+
+JOGO
+CRI
+COR
+
+DATA - 04/12 
+Local -  
+Hora - 
+
+JOGO
+COR
+BAH
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 10/07 
+Local - São Januário 
+Hora - 19:00
+
+JOGO
+VAS
+2
+0
+COR
+
+DATA - 16/07 
+Local - Neo Química Arena 
+Hora - 21:00
+
+JOGO
+COR
+2
+1
+CRI
+
+DATA - 21/07 
+Local - Casa de Apostas Arena Fonte Nova 
+Hora - 16:00
+
+JOGO
+BAH
+0
+1
+COR
+
+DATA - 25/07 
+Local - Neo Química Arena 
+Hora - 20:00
+
+JOGO
+COR
+2
+2
+GRE
+
+DATA - 28/07 
+Local - Arena MRV 
+Hora - 19:00
+
+JOGO
+CAM
+2
+1
+COR
+
+DATA - 04/08 
+Local - Neo Química Arena 
+Hora - 16:00
+
+JOGO
+COR
+1
+1
+JUV
+
+DATA - 10/08 
+Local - Neo Química Arena 
+Hora - 21:30
+
+JOGO
+COR
+1
+1
+RBB
+
+DATA - 17/08 
+Local - Maracanã 
+Hora - 21:00
+
+JOGO
+FLU
+0
+0
+COR
+
+DATA - 25/08 
+Local - Castelão (CE) 
+Hora - 16:00
+
+JOGO
+FOR
+1
+0
+COR
+
+DATA - 01/09 
+Local - Neo Química Arena 
+Hora - 16:00
+
+JOGO
+COR
+2
+1
+FLA
+
+DATA - 14/09 
+Local - Nilton Santos (Engenhão) 
+Hora - 21:00
+
+JOGO
+BOT
+COR
+
+DATA - 21/09 
+Local - Neo Química Arena 
+Hora - 16:00
+
+JOGO
+COR
+ACG
+
+DATA - 29/09 
+Local - Morumbis 
+Hora - 16:00
+
+JOGO
+SAO
+COR
+
+DATA - 05/10 
+Local - Neo Química Arena 
+Hora - 19:00
+
+JOGO
+COR
+INT
+
+DATA - 20/10 
+Local -  
+Hora - 
+
+JOGO
+COR
+CAP
+
+DATA - 26/10 
+Local -  
+Hora - 
+
+JOGO
+CUI
+COR
+
+DATA - 06/11 
+Local -  
+Hora - 
+
+JOGO
+COR
+PAL
+
+DATA - 13/11 
+Local -  
+Hora - 
+
+JOGO
+VIT
+COR
+
+DATA - 20/11 
+Local -  
+Hora - 
+
+JOGO
+COR
+CRU
+
+DATA - 24/11 
+Local -  
+Hora - 
+
+JOGO
+COR
+VAS
+
+DATA - 01/12 
+Local -  
+Hora - 
+
+JOGO
+CRI
+COR
+
+DATA - 04/12 
+Local -  
+Hora - 
+
+JOGO
+COR
+BAH
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 10/07 
+Local - São Januário 
+Hora - 19:00
+
+JOGO
+VAS
+2
+0
+COR
+
+DATA - 16/07 
+Local - Neo Química Arena 
+Hora - 21:00
+
+JOGO
+COR
+2
+1
+CRI
+
+DATA - 21/07 
+Local - Casa de Apostas Arena Fonte Nova 
+Hora - 16:00
+
+JOGO
+BAH
+0
+1
+COR
+
+DATA - 25/07 
+Local - Neo Química Arena 
+Hora - 20:00
+
+JOGO
+COR
+2
+2
+GRE
+
+DATA - 28/07 
+Local - Arena MRV 
+Hora - 19:00
+
+JOGO
+CAM
+2
+1
+COR
+
+DATA - 04/08 
+Local - Neo Química Arena 
+Hora - 16:00
+
+JOGO
+COR
+1
+1
+JUV
+
+DATA - 10/08 
+Local - Neo Química Arena 
+Hora - 21:30
+
+JOGO
+COR
+1
+1
+RBB
+
+DATA - 17/08 
+Local - Maracanã 
+Hora - 21:00
+
+JOGO
+FLU
+0
+0
+COR
+
+DATA - 25/08 
+Local - Castelão (CE) 
+Hora - 16:00
+
+JOGO
+FOR
+1
+0
+COR
+
+DATA - 01/09 
+Local - Neo Química Arena 
+Hora - 16:00
+
+JOGO
+COR
+2
+1
+FLA
+
+DATA - 14/09 
+Local - Nilton Santos (Engenhão) 
+Hora - 21:00
+
+JOGO
+BOT
+COR
+
+DATA - 21/09 
+Local - Neo Química Arena 
+Hora - 16:00
+
+JOGO
+COR
+ACG
+
+DATA - 29/09 
+Local - Morumbis 
+Hora - 16:00
+
+JOGO
+SAO
+COR
+
+DATA - 05/10 
+Local - Neo Química Arena 
+Hora - 19:00
+
+JOGO
+COR
+INT
+
+DATA - 20/10 
+Local -  
+Hora - 
+
+JOGO
+COR
+CAP
+
+DATA - 26/10 
+Local -  
+Hora - 
+
+JOGO
+CUI
+COR
+
+DATA - 06/11 
+Local -  
+Hora - 
+
+JOGO
+COR
+PAL
+
+DATA - 13/11 
+Local -  
+Hora - 
+
+JOGO
+VIT
+COR
+
+DATA - 20/11 
+Local -  
+Hora - 
+
+JOGO
+COR
+CRU
+
+DATA - 24/11 
+Local -  
+Hora - 
+
+JOGO
+COR
+VAS
+
+DATA - 01/12 
+Local -  
+Hora - 
+
+JOGO
+CRI
+COR
+
+DATA - 04/12 
+Local -  
+Hora - 
+
+JOGO
+COR
+BAH
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
+COR
+
+DATA - 08/12 
+Local -  
+Hora - 
+
+JOGO
+GRE
 COR
 
